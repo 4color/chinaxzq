@@ -9,13 +9,23 @@
 
 各字段解析
 xzq_code:行政区代码
+
 xzq_name:行政区名称
+
 parent_xzqid:父级id，不全对，没啥用
-parent_xzq_code:父级代码，
+
+parent_xzq_code:父级代码
+
 xzq_order:排序
+
 isleaf:是否最后一级
+
 actived:是否有用
+
 is_new:是否是最新代码
+
 xzq_short:简称，主要用于省份
+
 center:城市中心点经纬度,这个没有暂时空着
+
 
